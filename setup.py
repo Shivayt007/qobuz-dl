@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-pkg_name = "qobuz-dl"
+pkg_name = "qobuz_dl"
 
 
 def read_file(fname):
